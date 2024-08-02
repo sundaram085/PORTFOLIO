@@ -1,8 +1,12 @@
 
 Name: SUNDARAM MAURYA
+
 Company: CODETECH IT SOLUTION
+
 ID: CT08DS5638
+
 Domain: FULL STACK
+
 Duration: JULY 23rd, to August 23rd, 2024
 
 **OVERVIEWS OF THE PROJECT**
